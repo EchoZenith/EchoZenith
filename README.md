@@ -1,4 +1,4 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=PeterCoast&show_icons=true&theme=default_repocard&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterCoast&theme=default_repocard&layout=compact)
 ![Github visitor](https://visitor-badge.glitch.me/badge?page_id=PeterCoast)
-![https://www.w3.org/html/](https://img.shields.io/badge/HTML-5-brightgreen.svg)
+![HTML icon](https://img.shields.io/badge/HTML-5-brightgreen.svg)(https://www.w3.org/html/)
