@@ -2,7 +2,8 @@ name: Generate Snake
 
 on:
   schedule: # 每24小时自动更新一次
-    - cron: "0 0 * * *"
+    # - cron: "0 0 * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch: # 允许手动点击运行
 
 jobs:
